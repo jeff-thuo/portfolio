@@ -1,4 +1,35 @@
 h1 {
-  color: blue;
-  text-align: center
+  /* color: lue; */
+  text-align: center;
+}
+nav>ul>li>a {
+  text-decoration: none; 
+  color:black;
+}
+nav>ul>li {
+  float: left;
+  list-style-type: none;
+  /* color: black;
+  text-align: center; */
+  padding:35px;
+}
+li a:hover{
+  background-color: blue;
+  color:white;
+  padding:10px;
+}
+#nav{
+  text-transform: uppercase;
+  background-color: lightgrey;
+  color:black;
+  overflow: hidden;
+  width:100%;
+  position: static;
+}
+footer{
+  position: relative;
+  background-color: blue;
+  width: 100%;
+  top: 0;
+  bottom: 0;
 }
