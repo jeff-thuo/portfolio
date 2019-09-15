@@ -21,7 +21,7 @@ li a:hover{
 #nav{
   text-transform: uppercase;
   background-color: lightgrey;
-  color:black;
+  color:blue;
   overflow: hidden;
   width:100%;
   position: static;
